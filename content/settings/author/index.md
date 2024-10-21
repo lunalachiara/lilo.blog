@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = "/img/default-author.jpg"
-url = "/about/"
+name = "Luna"
+image = "/media/alexander-vertinsky-as-pierrot-c_1918.jpeg"
+url = ""
 +++
