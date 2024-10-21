@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/alexander-vertinsky-as-pierrot-c_1918.jpeg"
+logo = ""
+image = "/media/img_6689.jpg"
 color = "#5a4ae3"
 +++
